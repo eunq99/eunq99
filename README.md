@@ -5,7 +5,7 @@
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/>
 
   
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=#FFE9E9&height=200&section=footer)
 
 <!--
 **eunq99/eunq99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
